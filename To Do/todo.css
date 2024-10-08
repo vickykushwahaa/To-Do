@@ -1,0 +1,11 @@
+body{
+    font-family: Arial;
+}
+#main_heading{
+    text-align: center;
+
+}
+#todo_container{
+    display: grid;
+    grid-template-columns: 150px 120px 100px;
+}
